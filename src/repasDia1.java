@@ -1,7 +1,6 @@
 import java.util.Arrays;
-import java.util.Locale;
 
-public class Main {
+public class repasDia1 {
 
 
     public static boolean esDelimitador(char ll){
